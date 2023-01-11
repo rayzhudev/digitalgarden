@@ -1,3 +1,7 @@
+---
+{"dg-publish":true,"permalink":"/decentralised-marketplace/"}
+---
+
 Problem: Solving the NFT curation problem (and censorship)
 Tackle this problem because this is the only case where mainstream users care about censorship.
 
