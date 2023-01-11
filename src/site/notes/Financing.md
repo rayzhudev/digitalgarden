@@ -13,6 +13,8 @@
 - https://www.blockchaingrants.org/
 #### Chain
 - [Optimism](https://app.optimism.io/retropgf)
+- Polygon
+- Starknet
 #### File storage
 - [Arweave](https://www.arweave.org/get-involved/investment-funding)
 - [Filecoin](https://grants.filecoin.io/)
