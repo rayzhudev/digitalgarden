@@ -1,7 +1,3 @@
----
-{"dg-publish":true,"permalink":"/web3-homepage/"}
----
-
 Problem: There are so many different web3 apps but a newcomer to the space has an extremely difficult time discovering them, and they're hard to keep track of
 
 Name: Helios? Solar? The idea behind this is that it is the centre of everything. Heliocentric model. Copernican revolution.
