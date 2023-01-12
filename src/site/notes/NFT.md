@@ -15,7 +15,12 @@
 - nouns style but have to figure out a way to make supply elastic
 - tweet from the NoGrifters account?
 
-NoGrifters prize
+### NoGrifters collective NFT
+- Those part of the collective get a separate NFT from the community NFT
+- this NFT gives write access to internal communication channels (they're already publicly viewable)
+- used for paying salaries as well
+
+### NoGrifters prize
 - similar to Nobel prize
 - Funded from public goods fund
 - Tokenomics award
