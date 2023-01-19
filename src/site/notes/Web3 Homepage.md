@@ -22,5 +22,9 @@ Products:
 - NFT portfolio viewer
 - Public NFT spam list
 
+### UX
+Search for smart contracts with plain text "earn yield". Comes up with a list of staking/yield farming protocols. Ask it another question "where does the yield come from?", show information for each staking protocol/the selected protocol. Use GPT to generate answers. Allow community correction to teach the model.
+
 ### Competitors
 https://magicsquare.io/magic-store/
+https://zapper.fi/
