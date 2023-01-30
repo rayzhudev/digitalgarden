@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/values/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/values/"}
 ---
 
 **Build with integrity**
